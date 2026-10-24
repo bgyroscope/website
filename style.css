@@ -1,6 +1,6 @@
 body {background:lightblue}
 
-button {
+.button {
   transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, color 0.2s ease-in-out;
   display: inline-block;
   height: 2.75em;
